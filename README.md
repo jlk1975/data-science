@@ -1,1 +1,6 @@
-# data-science
+# This is a heading
+## This is a secondary heading
+### This is a tertiary heading
+
+*first item in list*
+*second item in list*
